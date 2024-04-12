@@ -7,4 +7,7 @@
     background-image: linear-gradient(#241885,#2d9e42)
     color:#ffffff
     display: flex;
-    justify-content
+     justify-content: center;
+     padding: 24px 0; }
+     .escola-div-conteudo{width: 45%;}
+     .ecola-titulo{padding: 30px 0;}
