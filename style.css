@@ -11,3 +11,25 @@
      padding: 24px 0; }
      .escola-div-conteudo{width: 45%;}
      .ecola-titulo{padding: 30px 0;}
+
+     .contato {
+        background-color: #d47abede;
+
+     }
+
+     .contato_titulo {
+         color: #b81895; display: flex; justify-content: space-aroud; align-items: center;
+     }
+
+     .contato_texto { color:#b81895}
+    }
+    .contato_email {
+        padding: 1em;
+        border: 1px solid;
+        border-radius: 24px;
+        width: 90%;
+    }
+    .rodape{
+        background-color: #b81895;
+        color:#b81895
+        text-align: center;
