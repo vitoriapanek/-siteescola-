@@ -33,3 +33,17 @@
         background-color: #b81895;
         color:#b81895
         text-align: center;
+        
+        .tópicos_lista {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .tópicos_link {
+            margin: 2em 0.5em;
+            list-style: none;
+        }
+
+        .y
+
